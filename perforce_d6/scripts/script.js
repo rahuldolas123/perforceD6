@@ -1,7 +1,4 @@
 /**
  * 
  */
-alert("hi");
-alert("Welcome");
-alert("world");
-
+alert("bye");
