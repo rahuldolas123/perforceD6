@@ -1,1 +1,1 @@
-<script>alert("perforce")</script>
+alert("perforce");
